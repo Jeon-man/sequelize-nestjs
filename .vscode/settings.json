@@ -1,0 +1,16 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "cSpell.words": [
+    "dtos",
+    "Keyable",
+    "metatype",
+    "middlewares",
+    "mommoss",
+    "nestjs",
+    "pino",
+    "trivago",
+    "uncolorize"
+  ]
+}
